@@ -1,0 +1,10 @@
+# Sanal ortam
+venv/
+.venv/
+
+# Gizli API Anahtarı dosyası
+.env
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
